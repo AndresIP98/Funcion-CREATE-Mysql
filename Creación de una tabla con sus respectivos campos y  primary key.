@@ -1,0 +1,8 @@
+CREATE TABLE RegistrosVarios
+(
+IdRegistrosV Integer PRIMARY KEY AUTO_INCREMENT,
+nombre varchar(255) NOT NULL,
+edad varchar(255),
+profesion varchar(255),
+residencia varchar(255),
+direccion varchar(255),
